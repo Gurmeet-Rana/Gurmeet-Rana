@@ -44,8 +44,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurmeetrana361&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gurmeetrana361&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gurmeet-Rana&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gurmeet-Rana&theme=tokyonight" />
 </p>
 
 ---
