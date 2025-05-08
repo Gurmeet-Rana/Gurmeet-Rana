@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer on a mission to build smart & useful things.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+  <img src="https://komarev.com/ghpvc/?username=gurmeetrana361&label=Profile%20views&color=0e75b6&style=flat" alt="gurmeetrana361" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 `Scikit-learn` `Pandas` `NumPy` `NLTK` `Word2Vec` `LSTM` `TF-IDF`
 
 #### Tools & Platforms:
-`Git` `GitHub` `VS Code` `Google Colab` `AWS (basic)`  `Postman`
+`Git` `GitHub` `VS Code` `Google Colab` `AWS (basic)` `Postman`
 
 ---
 
@@ -44,17 +44,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gurmeetrana361&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gurmeetrana361&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- 📧 Mail: ranagur361@gmail.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/gurmeet-rana-3bb15b296/
-- 📝 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(if any)*
+- 📧 Mail: ranagur361@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/gurmeet-rana-3bb15b296](https://www.linkedin.com/in/gurmeet-rana-3bb15b296/)  
+- 📝 Portfolio: *(Add your actual portfolio link if you have one)*
 
 ---
 
@@ -62,7 +62,3 @@
 
 > “First solve the problem. Then, write the code.” — John Johnson  
 > “A user interface is like a joke. If you have to explain it, it’s not that good.”
-
----
-
-
